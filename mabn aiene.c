@@ -7,9 +7,7 @@ int main(void){
     //printf("please enter your weigh in kg:\n");
     scanf("%f",&weigh_in_kg);
 
-    //printf("please enter your heigh in meter:\n");
-    scanf("%f",&heigh_in_meters);
-
+ 
 
 
 
